@@ -28,14 +28,14 @@ src="https://img.shields.io/github/followers/Ravindra0849?logo=github&style=for-
 <a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
 <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="50" height="50"/>
 </a>
-<!-- Add more cloud-related tools here -->
+<!-- Add more cloud-related tools here.
 </p>
 
 </a> </p> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
 </a> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="50" height="50"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-</a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a>
+</a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"alt="Jenkins" width="50" height="50"/> </a>
 </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/> </a>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="50" height="50"/> </a> <a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
@@ -44,6 +44,26 @@ src="https://img.shields.io/github/followers/Ravindra0849?logo=github&style=for-
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+
+⚡Designed and implemented infrastructure as code using Terraform to provision and manage AWS resources.
+⚡Implemented terraform concepts like locals, data sources, outputs, functions, count and count index, etc. to effectively develop the modules.
+⚡Skilled in branching strategies to facilitate collaboration and code stability and proficient in code reviews, merging, and resolving merge conflicts to maintain code quality.
+⚡	Advanced knowledge of setting up and configuring Jenkins pipelines for automated build, test, and deployment processes.
+⚡Extensive experience in creating Jenkins jobs, configuring build triggers, and integrating with version control systems.
+⚡Strong command of Maven for managing project dependencies and automating project builds.
+⚡Proficient in using SonarQube for static code analysis to identify and address code quality issues and configuration of quality gates and coding standards to enforce best practices.
+⚡Expertise in infrastructure automation using Ansible for configuration management and orchestration.
+⚡Proficient in utilizing Trivy for vulnerability scanning of container images and identifying security issues.
+⚡Having Experience in containerization using Docker to package application, ensuring consistency and portability across different environments.
+⚡Designed and implementing Docker containers, including creating Docker images, writing Docker files, and configuring container orchestration for seamless deployments and scaling.
+⚡
+⚡
+⚡
+⚡
+⚡
+⚡
+⚡
+
 
 
 ### Socials
