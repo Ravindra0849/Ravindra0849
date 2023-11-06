@@ -7,7 +7,7 @@ AWS DevOps Engineer
 • Professional experience of 3.6 years as an AWS DevOps Engineer with designing, implementing, and maintaining DevOps pipelines. Proficient in a wide range of DevOps tools and practices, focused on enhancing development efficiency, continuous integration, continuous delivery, and infrastructure automation in the information technology and services industry.
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 * 🌍  I'm based in Hyderabad, Telangana, India
 * ✉️  You can contact me at [Ravindrareddymukka@gmail.com](mailto:Ravindrareddymukka@gmail.com)
@@ -18,13 +18,10 @@ AWS DevOps Engineer
 src="https://img.shields.io/github/followers/Ravindra0849?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 ### Technical Skills
-
-
 <p align="left">
 <a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
 <img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="50" height="50"/>
 </a>
-
 <a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
 <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="50" height="50"/>
 </a>
@@ -44,27 +41,6 @@ src="https://img.shields.io/github/followers/Ravindra0849?logo=github&style=for-
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
-
-⚡Designed and implemented infrastructure as code using Terraform to provision and manage AWS resources.
-⚡Implemented terraform concepts like locals, data sources, outputs, functions, count and count index, etc. to effectively develop the modules.
-⚡Skilled in branching strategies to facilitate collaboration and code stability and proficient in code reviews, merging, and resolving merge conflicts to maintain code quality.
-⚡	Advanced knowledge of setting up and configuring Jenkins pipelines for automated build, test, and deployment processes.
-⚡Extensive experience in creating Jenkins jobs, configuring build triggers, and integrating with version control systems.
-⚡Strong command of Maven for managing project dependencies and automating project builds.
-⚡Proficient in using SonarQube for static code analysis to identify and address code quality issues and configuration of quality gates and coding standards to enforce best practices.
-⚡Expertise in infrastructure automation using Ansible for configuration management and orchestration.
-⚡Proficient in utilizing Trivy for vulnerability scanning of container images and identifying security issues.
-⚡Having Experience in containerization using Docker to package application, ensuring consistency and portability across different environments.
-⚡Designed and implementing Docker containers, including creating Docker images, writing Docker files, and configuring container orchestration for seamless deployments and scaling.
-⚡
-⚡
-⚡
-⚡
-⚡
-⚡
-⚡
-
-
 
 ### Socials
 
