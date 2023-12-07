@@ -2,7 +2,7 @@ Hi 👋 My name is Ravindra Reddy Mukka
 =====================================
 AWS DevOps Engineer
 -------------------
-• Professional experience of 4 years as an AWS DevOps Engineer with designing, implementing, and maintaining DevOps pipelines. Proficient in a wide range of DevOps tools and practices, focused on enhancing development efficiency, continuous integration, continuous delivery, and infrastructure automation in the information technology and services industry.
+• Professional experience as an AWS DevOps Engineer with designing, implementing, and maintaining DevOps pipelines. Proficient in a wide range of DevOps tools and practices, focused on enhancing development efficiency, continuous integration, continuous delivery, and infrastructure automation in the information technology and services industry.
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
