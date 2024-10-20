@@ -46,7 +46,7 @@ AWS DevOps Engineer
 <p align="left">
 </p>
 
-* 🌍  I'm based in Hyderabad, Telangana, India
-* ✉️  You can contact me at [Ravindrareddymukka@gmail.com](mailto:Ravindrareddymukka@gmail.com)
-* 🧠  I'm learning Python and Some AWS Services
-* 🤝  I'm open to collaborating on AWS DevOps Projects
+* 🌍  I'm based in Bangalore, Karnataka, India
+* ✉️  You can contact me at [Venkataravindrareddy12@gmail.com](mailto:Venkataravindrareddy12@gmail.com)
+* 🧠  I'm learning New tools and Technologies
+* 🤝  I'm open to collaborating on AWS cloud and DevOps Projects
